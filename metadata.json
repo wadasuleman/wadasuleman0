@@ -1,0 +1,6 @@
+{
+  "name": "LUNOPS — Lunar Operations Simulator",
+  "description": "An interactive junior astronaut mission simulator where children manage a lunar research outpost, making critical decisions about life support, energy, and crew safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
